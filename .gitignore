@@ -81,6 +81,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.Zone.Identifier
 
 # IPython
 profile_default/
